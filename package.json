@@ -1,0 +1,9 @@
+{
+    "name": "create-webindows-app-template",
+    "version": "1.0.0",
+    "description": "Starter to create an app with all necessary deps and funcs for webindows.",
+    "main": "./src/index.js",
+    "author": "Alex",
+    "license": "NONE",
+    "bin": "./bin/cli.js"
+}
